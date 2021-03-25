@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportLobo", "ExportLobo\ExportLobo.csproj", "{9A335B31-1E30-40BD-8C30-0F66330AE945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A335B31-1E30-40BD-8C30-0F66330AE945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A335B31-1E30-40BD-8C30-0F66330AE945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A335B31-1E30-40BD-8C30-0F66330AE945}.Debug|x86.ActiveCfg = Debug|x86
+		{9A335B31-1E30-40BD-8C30-0F66330AE945}.Debug|x86.Build.0 = Debug|x86
+		{9A335B31-1E30-40BD-8C30-0F66330AE945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A335B31-1E30-40BD-8C30-0F66330AE945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A335B31-1E30-40BD-8C30-0F66330AE945}.Release|x86.ActiveCfg = Release|x86
+		{9A335B31-1E30-40BD-8C30-0F66330AE945}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46C607DD-C80D-40FC-BC70-B5432746C15D}
+	EndGlobalSection
+EndGlobal
